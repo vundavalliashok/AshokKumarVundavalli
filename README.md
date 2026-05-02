@@ -40,7 +40,7 @@
 
 ---
 
-## 📂 Featured Work (Coming Soon)
+## 📂 Featured Work
 
 - CI/CD pipeline implementations  
 - Infrastructure automation templates  
@@ -51,7 +51,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: vundavalliashok@gmail.com  
-- 💼 LinkedIn: (Add your link here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/ashok-vundavalli
 
 ---
 
